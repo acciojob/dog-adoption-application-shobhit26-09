@@ -1,2 +1,4 @@
-
-/* Your CSS Code here. */
+body { font-family: Arial, sans-serif; background: #f3f6fb; color: #222; }
+form { max-width: 520px; margin: 32px auto; padding: 28px; background: white; border-radius: 12px; box-shadow: 0 4px 16px #0002; display: grid; gap: 12px; }
+input, select, button { padding: 10px; border: 1px solid #bbb; border-radius: 6px; }
+button { background: #2374e1; color: white; border: 0; cursor: pointer; }
